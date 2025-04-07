@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://eve953.github.io/cse445/Hotels.xsd">
+
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>The McCormick</Name>
+		<Phone>+1800-535-1865</Phone>
+		<Address>
+			<Number>7421</Number>
+			<Street>N.Scottsdale Road</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Holiday Inn Express and Suites</Name>
+		<Phone>+1800-535-1865</Phone>
+		<Phone>1 877 666 3243</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>16540</Number>
+			<Street>N.Bullard Ave</Street>
+			<City>Surprise</City>
+			<State>AZ</State>
+			<Zip>85374</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Courtyard</Name>
+		<Phone>623-580-8844</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>2029</Number>
+			<Street>W.Whispering Wind</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85085</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Hilton Garden Inn</Name>
+		<Phone>623-434-5556</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>1940</Number>
+			<Street>W.Pinnacle Peak Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85027</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>Best Western</Name>
+		<Phone>623-259-9300</Phone>
+		<Phone>1(800)-780-7234</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>2108</Number>
+			<Street>W.Whispering Wind Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85085</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Happy Valley House</Name>
+		<Address NearstAirport="Sky Harbor">
+			<Number>28250</Number>
+			<Street>N.32nd Lane</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85083</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Drury Inn and Suites</Name>
+		<Name>West</Name>
+		<Phone>623-879-8800</Phone>
+		<Phone> 602-794-3248</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>2335</Number>
+			<Street>W.Pinnacle Peak Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85027</Zip>
+	</Hotel>
+
+	<Hotel Rating="3.1">
+		<Name>Days Inn</Name>
+		<Phone>623-434-5500</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>21636</Number>
+			<Street>N.26th Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85027</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Garner Hotel</Name>
+		<Phone>623-933-4000</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>12477</Number>
+			<Street>W.Bell Rd</Street>
+			<City>Surprise</City>
+			<State>AZ</State>
+			<Zip>85378</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.6">
+		<Name>Woodspring Suites</Name>
+		<Phone>480-530-3531</Phone>
+		<Phone>844-974-6835</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>24275</Number>
+			<Street>N.23rd Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85085</Zip>
+		</Address>
+	</Hotel>
+
+
+
+</Hotel>
